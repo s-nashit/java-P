@@ -9,6 +9,7 @@ class Nashit {
         // byte a = 128;
         // float a = 6.2f;
         boolean a = true;
+        int b = 4;
 
         System.out.print(a);
     }
